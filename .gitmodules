@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "selection.index"]
+	path = selection.index
+	url = https://github.com/zankrut20/selection.index
+	shallow = true
+	registered = true
